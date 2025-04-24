@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lobobr1641&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lobobr1641/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lobobr1641&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lobobr1641&layout=compact&langs_count=8&card_width200&show_icons=true&theme=radical" />
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rising-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
