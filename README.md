@@ -1,7 +1,7 @@
 ## Ola! Eu sou Rising
 
-- 🌱 Estudando Html / Css / Javascript
-- 😄 Pronouns: ele/dele
+- Estudando Html / Css / Javascript
+- Pronouns: ele/dele
 
 <a href="https://github.com/lobobr1641/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lobobr1641&show_icons=true&theme=radical" />
